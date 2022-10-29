@@ -1,1 +1,2 @@
 https://microsoftlearning.github.io/AZ-220-Microsoft-Azure-IoT-Developer/
+https://github.com/microsoft/IoT-For-Beginners
